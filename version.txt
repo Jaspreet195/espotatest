@@ -1,4 +1,1 @@
-{
-  "version": "1.2.0",
-  "url": "https://github.com/Jaspreet195/espotatest/releases/download/v1.1.0/firmware-v1.1.0.bin"
-}
+1.1.0
